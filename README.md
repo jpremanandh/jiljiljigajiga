@@ -1,5 +1,7 @@
 # jiljiljigajiga
 
+go run jiljiljigajiga.go
+
 Expected initial changes to be incorporated for this project
 
 SSP Module
