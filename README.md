@@ -1,8 +1,4 @@
-# Use the following command to run the go script.
-## H2
-### H3
-
-go run jiljiljigajiga.go
+### go run jiljiljigajiga.go
 
 Expected initial changes to be incorporated for this project
 
