@@ -1,5 +1,7 @@
 # jiljiljigajiga
 
+#Use the following command to run the go script.
+
 go run jiljiljigajiga.go
 
 Expected initial changes to be incorporated for this project
