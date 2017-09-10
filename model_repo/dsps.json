@@ -1,0 +1,14 @@
+{
+  "development": [
+    {
+      "url": "http://us-west-bidder.mathtag.com:9180/bid/gor",
+      "id": "dsps_one",
+      "qps": "20rpm"
+    },
+    {
+      "url": "http://us-west-bidder.mathtag.com:9180/bid/gor",
+      "id": "dsps_two",
+      "qps": "1000rpm"
+    }
+  ]
+}

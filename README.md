@@ -13,3 +13,9 @@ Expected initial changes to be incorporated for this project
 ### SSP Tracker Module (CONTRIBUTOR: RAMKUMAR)
 1. Expose API endpoint for ssp tracker
 2. Log the query params for requset
+
+### Request handling architecture
+1. Get Request
+2. Lopp through all DSPS
+    1. Check if Request is eligible to process the request
+    2. (Incoming request's context matches with DSPS priority) AND (QPS Frequency is within limit with the new request)

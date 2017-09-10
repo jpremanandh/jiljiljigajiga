@@ -1,0 +1,51 @@
+{
+  "id": "83187405165",
+  "at": 2,
+  "imp": [{
+          "id": "2d567fb4ab21",
+          "banner": {
+                  "w": 300,
+                  "h": 250,
+                  "pos": 0,
+                  "mimes": ["image/gif", "image/jpeg", "image/png", "text/javascript"],
+                  "name": "AUM"
+          },
+          "instl": 0,
+          "ext": {
+                  "nex_screen": 0
+          }
+  }],
+  "site": {
+          "name": "BidderTestMobileWEB",
+          "domain": "atlassian.com",
+          "cat": ["IAB3"],
+          "page": "http://www.atlassian.com/mobile",
+          "ref": "http://www.iab.net",
+          "search": "radiation",
+          "publisher": {
+                  "id": "123",
+                  "name": "Hind"
+          },
+          "keywords": "radiation"
+  },
+  "device": {
+          "ua": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; el-gr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5",
+          "ip": "72.229.28.185",
+          "geo": {
+                  "lat": 40.7605,
+                  "lon": -73.9933,
+                  "country": "TUR",
+                  "region": "NY",
+                  "city": "New York",
+                  "utcoffset": -300
+          },
+          "didsha1": "132079238ec783b0b89dff308e1f9bdd08576273",
+          "dpidsha1": "f22711a823044bb9ce7ace097955de0286eb0182",
+          "carrier": "ATT",
+          "connectiontype": 3,
+          "devicetype": 2
+  },
+  "ext": {
+          "ssp": "SelfService1"
+  }
+}
